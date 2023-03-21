@@ -1,4 +1,12 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmine0122&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmine0122&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/jasmine0122">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jasmine0122&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasmine0122&show_icons=true&theme=dracula&layout=compact&exclude_repo=RaspberryPi-Fire-Detection&count_private=true"/>
+</div>
+
+
+
+
 <!--
 **jasmine0122/jasmine0122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
