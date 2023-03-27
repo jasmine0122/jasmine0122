@@ -1,23 +1,27 @@
-<div align="center">
-  <a href="https://github.com/jasmine0122">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jasmine0122&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasmine0122&show_icons=true&theme=dracula&layout=compact&exclude_repo=RaspberryPi-Fire-Detection&count_private=true"/>
-</div>
+# 💫 About Me:
+🔭 I’m currently working on National Yang Ming Chiao Tung University<br>👯 I’m looking forward to exchange to Kyoto University<br>🤝 I’m looking for help with my thesis<br>🌱 I’m currently learning 5G network
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jasmine2329) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meow0122) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sumire_2329) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jasmine0122&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jasmine0122&theme=flag-india&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmine0122&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!--
-**jasmine0122/jasmine0122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jasmine0122&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
-Here are some ideas to get you started:
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=sumire_2329)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=jasmine0122&icon=9&color=10)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
