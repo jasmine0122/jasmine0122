@@ -3,6 +3,8 @@
 👯 Waiting to go to Kyoto University for exchange<br>
 🌱 Currently learning 5G network
 
+<!-- --- -->
+[![](https://visitcount.itsvg.in/api?id=jasmine0122&icon=4&color=6)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jasmine2329) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meow0122)
@@ -20,9 +22,7 @@
 
 
 <!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jasmine0122&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=jasmine0122&theme=onedark&no-frame=true&no-bg=true&margin-w=4) -->
 
----
-[![](https://visitcount.itsvg.in/api?id=jasmine0122&icon=4&color=6)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
